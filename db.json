@@ -31,10 +31,26 @@
       "img": "https://kenhthoitiet.vn/wp-content/uploads/2018/07/2f9e78c77bcba0e9bcb83a1791d4e170.jpg"
     },
     {
-      "place": "Đà lạt",
+      "place": "Đà Lạt",
       "id": 7,
       "img": "https://mytourcdn.com/upload_images/Image/Location/28_10_2015/Du-lich-da-lat-mua-dong-mytour-1.jpg"
+    },
+     {
+      "place": "Cao Bằng",
+      "id": 8,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-63-tinh-thanh-Viet-Nam-3.webp"
+    },
+     {
+      "place": "Tuyên Quang",
+      "id": 9,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-63-tinh-thanh-Viet-Nam-4.webp"
+    },
+     {
+      "place": "Bắc Kạn",
+      "id": 10,
+      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-63-tinh-thanh-Viet-Nam-5.webp"
     }
+    
   ],
   "chilPlace": [
         {
