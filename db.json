@@ -187,36 +187,30 @@
         {
           "placeId" :2,
         "id" : 12,
-          "namePlace" :"Nhà Thờ Đức Bà",
-          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/nha-tho-duc-ba-1.png"
-        },
-        {
-          "placeId" :2,
-        "id" : 13,
           "namePlace" :"Khu du lịch Suối Tiên",
           "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/suoi-tien-1.png"
         },
         {
           "placeId" :2,
-        "id" : 14,
+        "id" : 13,
           "namePlace" :"Phố đi bộ Nguyễn Huệ",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
         },
         {
           "placeId" :2,
-        "id" : 15,
+        "id" : 14,
           "namePlace" :"Bảo tàng Lịch sử Việt Nam",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bao-tang-lich-su-viet-nam.png"
         },
         {
           "placeId" :2,
-        "id" : 16,
+        "id" : 15,
           "namePlace" :" Chợ Bến Thành",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png"
         },
         {
           "placeId" :2,
-        "id" : 17,
+        "id" : 16,
           "namePlace" :"Địa đạo Củ Chi",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png"
         }
