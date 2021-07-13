@@ -96,24 +96,14 @@
       "img": "https://dulich9.com/wp-content/uploads/2019/10/cach-dia-diem-du-lich-ca-nuoc-3.webp"
     },
      {
-      "place": "Dak Nông",
-      "id": 20,
-      "img": "https://dulich9.com/wp-content/uploads/2019/10/cach-dia-diem-du-lich-ca-nuoc-10.webp"
-    },
-     {
       "place": "Tây Ninh",
-      "id": 21,
+      "id": 20,
       "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-4-1.webp"
     },
      {
       "place": "Vũng Tàu",
-      "id": 22,
+      "id": 21,
       "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-6-1.webp"
-    },
-     {
-      "place": "Tiền Giang",
-      "id": 23,
-      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-9-1.webp"
     },
      {
       "place": "Cần Thơ",
@@ -126,18 +116,8 @@
       "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-14.webp"
     },
      {
-      "place": "Kiên Giang",
-      "id": 26,
-      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-15.webp"
-    },
-     {
-      "place": "Sóc Trăng",
-      "id": 27,
-      "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-17.webp"
-    },
-     {
       "place": "Bạc Liêu",
-      "id": 28,
+      "id": 26,
       "img": "https://dulich9.com/wp-content/uploads/2019/10/cac-dia-diem-du-lich-ca-nuoc-18.webp"
     }
     
