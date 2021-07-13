@@ -145,116 +145,80 @@
         {
           "placeId" :1,
         "id" : 5,
-          "namePlace" :"Nhà thờ lớn Hà Nội",
-          "img":"https://images.vov.vn/cr_w800/uploaded/fuxpgqubk/2020_03_29/vov__7_teck.jpg"
-        },
-        {
-          "placeId" :1,
-        "id" : 6,
           "namePlace" :"Hồ Tây",
           "img":"https://royalhotelnghitam.com/Pictures/0C9D91D2-AED5-4475-B19C-C4109BE40A32.jpg"
         },
         {
           "placeId" :1,
-        "id" : 7,
-          "namePlace" :"Nhà hát lớn Hà Nội",
-          "img":"https://hanoi1000.vn/wp-content/uploads/2019/09/nha-hat-lon.jpg"
-        },
-        {
-          "placeId" :1,
-        "id" : 8,
-          "namePlace" :"Nhà tù Hỏa Lò",
-          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/nha-tu-hoa-lo.jpg"
-        },
-        {
-          "placeId" :1,
-        "id" : 9,
+        "id" : 6,
           "namePlace" :"Hoàng thành Thăng Long",
           "img":"http://www.vita.vn/wp-content/uploads/2016/11/Hoangthanh01-990x693.jpg"
         },
         {
           "placeId" :1,
-        "id" : 10,
+        "id" : 7,
           "namePlace" :"Cột cờ Hà Nội",
           "img":"https://wall.vn/wp-content/uploads/2020/04/cot-co-ha-noi.jpg"
         },
         {
           "placeId" :1,
-        "id" : 11,
+        "id" : 8,
           "namePlace" :"Chùa Một Cột",
           "img":"https://mytourcdn.com/upload_images/Image/Location/24_2_2015/9-Du-lich-chua-mot-cot-mytour-1.jpg"
         },
         {
           "placeId" :1,
-        "id" : 12,
+        "id" : 9,
           "namePlace" :"Chợ Đồng Xuân",
           "img":"https://phan-mem-quan-ly-ban-hang.com/photos/1/cho%20dong%20xuan.jpg"
         },
         {
           "placeId" :1,
-        "id" : 13,
-          "namePlace" :"Ga Hà Nội",
-          "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/ga-ha-noi.jpg"
-        },
-        {
-          "placeId" :1,
-        "id" : 16,
+        "id" : 10,
           "namePlace" :"Sân vận động quốc gia mỹ Đình",
           "img":"https://www.coninco.com.vn/sites/default/files/28.%20SV%C4%90%20M%E1%BB%B9%20%C4%91%C3%ACnh1.jpg"
         },
         {
           "placeId" :2,
-        "id" : 21,
+        "id" : 11,
           "namePlace" :"Dinh Độc Lập",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
         },
         {
           "placeId" :2,
-        "id" : 22,
+        "id" : 12,
           "namePlace" :"Nhà Thờ Đức Bà",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/nha-tho-duc-ba-1.png"
         },
         {
           "placeId" :2,
-        "id" : 23,
+        "id" : 13,
           "namePlace" :"Khu du lịch Suối Tiên",
           "img":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/suoi-tien-1.png"
         },
         {
           "placeId" :2,
-        "id" : 24,
+        "id" : 14,
           "namePlace" :"Phố đi bộ Nguyễn Huệ",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
         },
         {
           "placeId" :2,
-        "id" : 25,
+        "id" : 15,
           "namePlace" :"Bảo tàng Lịch sử Việt Nam",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bao-tang-lich-su-viet-nam.png"
         },
         {
           "placeId" :2,
-        "id" : 26,
+        "id" : 16,
           "namePlace" :" Chợ Bến Thành",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cho-ben-thanh-1.png"
         },
         {
           "placeId" :2,
-        "id" : 27,
+        "id" : 17,
           "namePlace" :"Địa đạo Củ Chi",
           "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dia-dao-cu-chi.png"
-        },
-        {
-          "placeId" :2,
-        "id" : 28,
-          "namePlace" :"Dinh Độc Lập",
-          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/dinh-doc-lap-1.png"
-        },
-        {
-          "placeId" :2,
-        "id" : 29,
-          "namePlace" :"Cầu Ánh Sao",
-          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/cau-anh-sao.png"
         }
 
       ]
