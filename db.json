@@ -284,12 +284,6 @@
         "id" : 32,
           "namePlace" :"Tượng Chúa Kitô",
           "img": "https://taucaotoc.vn/wp-content/uploads/2020/04/Tuong-chua-giang-tay-Vung-Tau.jpg"
-        },
-        {
-          "placeId" :18,
-        "id" : 33,
-          "namePlace" :"Phú Quốc",
-          "img": "https://nucuoimekong.com/wp-content/uploads/tour-can-tho-phu-quoc-3-ngay-2-dem.jpg"
         }
       ]
 }
