@@ -260,6 +260,30 @@
         "id" : 28,
           "namePlace" :"Đảo Lý Sơn",
           "img": "https://dulichso.vn/wp-content/uploads/2019/12/20-ia-iem-choi-o-l-253-son-moi-nhat-hoang-so-tho-mong-chup-anh-cuc-ep.jpg"
+        },
+        {
+          "placeId" :16,
+        "id" : 29,
+          "namePlace" :"Bãi Xép",
+          "img": "https://pystravel.vn/uploads/posts/albums/3382/f38ca28292eed090c13cf1f573c3939c.jpg"
+        },
+        {
+          "placeId" :16,
+        "id" : 30,
+          "namePlace" :"Quảng trường Ninh Phong",
+          "img": "https://static.riviu.co/640/image/2021/05/07/3d60a01643789f0eac7332dd0c14d24a.jpeg"
+        },
+        {
+          "placeId" :17,
+        "id" : 31,
+          "namePlace" :"Côn Đảo",
+          "img": "https://condaoexplorer.com/wp-content/uploads/2020/03/B%C3%A3i-Nh%C3%A1t-C%C3%B4n-%C4%90%E1%BA%A3o-1-1.jpg"
+        },
+        {
+          "placeId" :18,
+        "id" : 33,
+          "namePlace" :"Phú Quốc",
+          "img": "https://nucuoimekong.com/wp-content/uploads/tour-can-tho-phu-quoc-3-ngay-2-dem.jpg"
         }
       ]
 }
