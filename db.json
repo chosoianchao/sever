@@ -358,8 +358,38 @@
         {
           "placeId" :18,
         "id" : 43,
-          "namePlace" :"Quảng trường Ninh Phong",
-          "img": "https://static.riviu.co/640/image/2021/05/07/3d60a01643789f0eac7332dd0c14d24a.jpeg"
+          "namePlace" :"Côn Đảo",
+          "img": "https://condaoexplorer.com/wp-content/uploads/2020/03/B%C3%A3i-Nh%C3%A1t-C%C3%B4n-%C4%90%E1%BA%A3o-1-1.jpg"
+        },
+        {
+          "placeId" :18,
+        "id" : 44,
+          "namePlace" :"Tượng Chúa Kitô",
+          "img": "https://taucaotoc.vn/wp-content/uploads/2020/04/Tuong-chua-giang-tay-Vung-Tau.jpg"
+        },
+        {
+          "placeId" :19,
+        "id" : 45,
+          "namePlace" :"Phú Quốc",
+          "img": "https://nucuoimekong.com/wp-content/uploads/tour-can-tho-phu-quoc-3-ngay-2-dem.jpg"
+        },
+        {
+          "placeId" :19,
+        "id" : 46,
+          "namePlace" :"Làng du lịch Mỹ Khánh",
+          "img": "https://www.tourdulichbentre.com/images/cach-di-lang-du-lich-my-khanh.jpg"
+        },
+        {
+          "placeId" :20,
+        "id" : 47,
+          "namePlace" :"Cánh đồng quạt gió Bạc Liêu",
+          "img": "https://thamhiemmekong.com/wp-content/uploads/2020/04/canhdongdiengiobaclieu4.jpg"
+        },
+        {
+          "placeId" :20,
+        "id" : 48,
+          "namePlace" :"Quần thể kiến trúc nhà Tây",
+          "img": "https://static.riviu.co/image/2020/12/01/43d3522288dfa4e5ee32dfc128c11f7f_output.jpeg"
         }
       ]
 }
