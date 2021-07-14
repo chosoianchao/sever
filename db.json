@@ -214,68 +214,62 @@
           "img": "http://www.vtr.org.vn/FileManager/anh_web_2020/thang7/0110/kham%20pha%20vung%20bien%20nam%20dinh%20(3).jpg"
         },
         {
-          "placeId" :11,
-        "id" : 21,
-          "namePlace" :"Biển Quất Lâm",
-          "img": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/02/kinh-nghiem-du-lich-bien-quat-lam-nam-dinh-7jpg.jpg"
-        },
-        {
           "placeId" :12,
-        "id" : 22,
+        "id" : 21,
           "namePlace" :"Chùa Bái Đính",
           "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLZSMEtsB4-9XdMn43TYwcPNifZqYRRN49Q&usqp=CAU"
         },
         {
           "placeId" :12,
-        "id" : 23,
+        "id" : 22,
           "namePlace" :"Khu du lịch Tràng An",
           "img": "https://vietnamembassy-mongolia.org/wp-content/uploads/2019/10/khu-du-l%E1%BB%8Bch-Tr%C3%A0ng-An-Ninh-B%C3%ACnh-4.jpg"
         },
         {
           "placeId" :13,
-        "id" : 24,
+        "id" : 23,
           "namePlace" :"Sầm Sơn",
           "img": "https://dulichkhampha24.com/wp-content/uploads/2019/09/kinh-nghiem-du-lich-Sam-Son-3.jpg"
         },
         {
           "placeId" :13,
-        "id" : 25,
+        "id" : 24,
           "namePlace" :"Khu bảo tồn Thiên Nhiên Pù Luông",
           "img": "https://thienviettour.vn/upload/images/khu-bao-ton-thien-nhien-pu-luong-thanh-hoa.jpg"
         },
         {
           "placeId" :14,
-        "id" : 26,
+        "id" : 25,
           "namePlace" :"Cung Đình Huế",
           "img": "https://www.vietnamembassy-bulgaria.org/wp-content/uploads/2020/01/du-lich-hue-10.jpg"
         },
         {
           "placeId" :14,
-        "id" : 27,
+        "id" : 26,
           "namePlace" :"Biển Lăng Cô",
           "img": "https://thuathienhue.gov.vn/Portals/0/Medias/Nam2019/T5/20190505-langco7a.jpg"
         },
         {
           "placeId" :15,
-        "id" : 28,
+        "id" : 27,
           "namePlace" :"Đảo Lý Sơn",
           "img": "https://dulichso.vn/wp-content/uploads/2019/12/20-ia-iem-choi-o-l-253-son-moi-nhat-hoang-so-tho-mong-chup-anh-cuc-ep.jpg"
         },
         {
           "placeId" :16,
-        "id" : 29,
+        "id" : 28,
           "namePlace" :"Bãi Xép",
           "img": "https://pystravel.vn/uploads/posts/albums/3382/f38ca28292eed090c13cf1f573c3939c.jpg"
         },
         {
           "placeId" :17,
-        "id" : 30,
+        "id" : 29,
           "namePlace" :"Côn Đảo",
           "img": "https://condaoexplorer.com/wp-content/uploads/2020/03/B%C3%A3i-Nh%C3%A1t-C%C3%B4n-%C4%90%E1%BA%A3o-1-1.jpg"
         },
         {
           "placeId" :18,
-        "id" : 31,
+        "id" : 30,
           "namePlace" :"Phú Quốc",
           "img": "https://nucuoimekong.com/wp-content/uploads/tour-can-tho-phu-quoc-3-ngay-2-dem.jpg"
         }
